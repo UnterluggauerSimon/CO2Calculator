@@ -15,5 +15,13 @@ public class Calculator {
         System.out.println(c);
         System.out.println(d);
         System.out.println(e);
+
+        //Gerade
+        boolean even = 2 % 2 == 0;
+        System.out.println(even);
+
+        //Addition
+        int Addition = 2 + 3;
+        System.out.println(Addition);
+        }
     }
-}
